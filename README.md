@@ -1,5 +1,10 @@
 # Spector-Mail
 
+Dependencies:
+* boost.asio
+* OpenSSL
+* mailo
+
 TODO:
 --> SMTP
 - baseclass - WIP
